@@ -1,0 +1,2 @@
+Downlaod the data from https://projects.mtc.ethz.ch/cheese-data and place
+the `cheese.json` file into this directory.
