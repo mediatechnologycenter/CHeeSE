@@ -138,8 +138,11 @@ following command and using the provided config file:
 
 ## Reference
 
-
 The dataset and baseline models are presented in:
+
+https://aclanthology.org/2021.fever-1.8.pdf
+
+When using the CHeeSE data set for research purpose, please cite:
 
 ```
     @inproceedings{mascarell-etal-2021-stance,
